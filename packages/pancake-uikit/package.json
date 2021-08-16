@@ -1,6 +1,6 @@
 {
   "name": "@JQE/uikit",
-  "version": "0.48.1",
+  "version": "0.48.2",
   "description": "Set of UI components for pancake projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -53,5 +53,6 @@
   },
   "publishConfig": {
     "@JQE:registry": "https://npm.pkg.github.com"
-  }
+  },
+  "gitHead": "778b23f7bad9d06e36aa290ca2f142f39c0c22f5"
 }
