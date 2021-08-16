@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.18.1](https://github.com/JQE/pancake-toolkit/compare/@JQE/token-lists@2.18.0...@JQE/token-lists@2.18.1) (2021-08-16)
+
+**Note:** Version bump only for package @JQE/token-lists
+
+
+
+
+
 # 2.18.0 (2021-08-16)
 
 
